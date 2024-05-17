@@ -7,7 +7,7 @@ This repository contains a panel displaying the Pool API info.
 ### Pool API Panel
 ![Pool API Panel](screenshots/Screenshot%202024-05-15%20214323.png)
 
-![Another Screenshot](screenshots/another_screenshot.png)
+![Another Screenshot](screenshots/Screenshot%202024-05-15%20224046.png)
 
 ## Description
 - Describe what your project does
