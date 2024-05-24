@@ -165,7 +165,8 @@ Open Grafana in your browser: http://localhost:3000
 Log in with the default credentials (admin / admin).
 Add InfluxDB as a data source.
 Import the provided Grafana dashboard JSON file from the grafana/ directory.
-Using the VPS Setup
+
+## Using the VPS Setup
 To run this setup, you can use a VPS (Virtual Private Server) to host your Monero node and P2Pool node. Set up InfluxDB and Grafana on the VPS as needed. Use screen to manage multiple terminals for running monerod, p2pool, and one ingest script for folder/file output by the API.
 
 Example of Using screen
