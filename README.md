@@ -67,7 +67,7 @@ Using the --data-api flag with P2Pool enables the creation of a data directory, 
 │   └── stats
 └── stats_mod
 ```
-- local: Contains data related to the local node, including console outputs, miner details (it appears if you start mining in P2Pool directly - from pool CLI console start_mining 2), peer-to-peer information, and stratum details.
+- local: Contains data related to the local node, including console outputs, miner details (it appears if you start mining in P2Pool directly - from P2pool CLI console start_mining 2), peer-to-peer information, and stratum details.
 - network: Stores network-wide statistics, including a cache of the last statistics, a response file, and the current stats.
 - pool: Holds data specific to the mining pool, such as block information, a cache of the last blocks, a response file, and the current stats.
 - stats_mod: This directory is reserved for modified stats or additional statistical data.
