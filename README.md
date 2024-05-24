@@ -28,6 +28,10 @@ The current setup uses a VPS with the following specifications:
 - 500 GB NVMe drive
 - Ubuntu 22.04 LTS
 
+## Screenshot
+
+![Pool API Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -183,10 +187,7 @@ You can detach from a screen session by pressing Ctrl + A followed by D. To reat
 screen -r <session_name>
 ```
 ## Screenshots
-Here are some screenshots of the P2Pool API Panel in action:
-
-### Screenshot 1 - Windows Represent a 6Hr timeframe 
-![Pool API Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+Here are few more screenshots of the P2Pool API Panel in action:
 
 ### Screenshot 2 - Windows Represent a 6Hr timeframe
 ![Another Screenshot](screenshots/Screenshot%202024-05-15%20224046.png)
