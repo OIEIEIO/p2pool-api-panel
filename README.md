@@ -182,24 +182,33 @@ You can detach from a screen session by pressing Ctrl + A followed by D. To reat
 ```
 screen -r <session_name>
 ```
-### Screenshots
+## Screenshots
 Here are some screenshots of the P2Pool API Panel in action:
 
-Pool API Panel
-
-
+### Screenshot 1 - Windows Represent a 6Hr timeframe 
 ![Pool API Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+
+### Screenshot 2 - Windows Represent a 6Hr timeframe
 ![Another Screenshot](screenshots/Screenshot%202024-05-15%20224046.png)
+
+### Screenshot 3 - Windows Represent a 6Hr timeframe
 ![Another Screenshot](screenshots/Screenshot%202024-05-15%20214323.png)
-### Customization
+
+## Customization
 Modifying the Ingest Scripts
 You can customize the ingest scripts to fetch additional data from the P2Pool API or modify the existing data processing logic. The scripts are located in the scripts/ directory.
 
-### Updating Grafana Dashboards
+## Updating Grafana Dashboards
 You can create custom dashboards or modify the existing ones in Grafana to suit your monitoring needs. The default dashboard JSON file is located in the grafana/ directory.
 
-### Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+
+This project is based on the instructions from the [xmr-metrics](https://github.com/OIEIEIO/xmr-metrics) repository with customizations for the P2Pool API. Special thanks to the members of the P2Pool Mini IRC channel for their guidance on setting up the data API. IRC at #p2pool-mini@irc.libera.chat:6697.
+
+
