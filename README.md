@@ -71,6 +71,8 @@ Using the --data-api flag with P2Pool enables the creation of a data directory, 
 - network: Stores network-wide statistics, including a cache of the last statistics, a response file, and the current stats.
 - pool: Holds data specific to the mining pool, such as block information, a cache of the last blocks, a response file, and the current stats.
 - stats_mod: This directory is reserved for modified stats or additional statistical data.
+- response.txt files created after running influxdb script
+  
 ### 3. Set Up InfluxDB
 Ensure InfluxDB is running and accessible. Install and start InfluxDB if it is not already running.
 
