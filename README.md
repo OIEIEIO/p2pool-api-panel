@@ -187,6 +187,10 @@ Here are some screenshots of the P2Pool API Panel in action:
 
 Pool API Panel
 
+
+![Pool API Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+![Another Screenshot](screenshots/Screenshot%202024-05-15%20224046.png)
+![Another Screenshot](screenshots/Screenshot%202024-05-15%20214323.png)
 ### Customization
 Modifying the Ingest Scripts
 You can customize the ingest scripts to fetch additional data from the P2Pool API or modify the existing data processing logic. The scripts are located in the scripts/ directory.
