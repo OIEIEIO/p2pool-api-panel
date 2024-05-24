@@ -51,22 +51,23 @@ Understanding the --data-api Flag
 Using the --data-api flag with P2Pool enables the creation of a data directory, along with several subdirectories and files, which are updated every 20 seconds. This is crucial for monitoring and fetching real-time mining data. Here is an overview of the directory structure created:
 ```
 ├── local
-│   ├── console
-│   ├── p2p
-│   ├── response.txt
-│   └── stratum
+│   ├── console
+│   ├── miner
+│   ├── p2p
+│   ├── response.txt
+│   └── stratum
 ├── network
-│   ├── last_stats_cache.txt
-│   ├── response.txt
-│   └── stats
+│   ├── last_stats_cache.txt
+│   ├── response.txt
+│   └── stats
 ├── pool
-│   ├── blocks
-│   ├── last_blocks_cache.txt
-│   ├── response.txt
-│   └── stats
+│   ├── blocks
+│   ├── last_blocks_cache.txt
+│   ├── response.txt
+│   └── stats
 └── stats_mod
 ```
-- local: Contains data related to the local node, including console outputs, peer-to-peer information, and stratum details.
+- local: Contains data related to the local node, including console outputs, miner details (it appears if you start mining in P2Pool directly - from pool CLI console start_mining 2), peer-to-peer information, and stratum details.
 - network: Stores network-wide statistics, including a cache of the last statistics, a response file, and the current stats.
 - pool: Holds data specific to the mining pool, such as block information, a cache of the last blocks, a response file, and the current stats.
 - stats_mod: This directory is reserved for modified stats or additional statistical data.
