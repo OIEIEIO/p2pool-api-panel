@@ -173,7 +173,7 @@ Start monerod in one screen session:
 
 ```
 screen -S monerod
-./monerod --detach
+./monerod --rpc-restricted-bind-ip=0.0.0.0 --rpc-restricted-bind-port=18089 --public-node --no-igd --enable-dns-blocklist --prune-blockchain --zmq-pub=tcp://0.0.0.0:18084 --in-peers=50 --out-peers=50
 ```
 Start p2pool in another screen session:
 ```
