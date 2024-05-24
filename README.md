@@ -195,6 +195,9 @@ Here are few more screenshots of the P2Pool API Panel in action:
 ### Screenshot 3 - Windows Represent a 6Hr timeframe
 ![Another Screenshot](screenshots/Screenshot%202024-05-15%20214323.png)
 
+### Screenshot of Proxy panel connected P2pool
+![Proxy Panel Screenshot](screenshots/screenshot-proxy-3.png)
+
 ## Customization
 Modifying the Ingest Scripts
 You can customize the ingest scripts to fetch additional data from the P2Pool API or modify the existing data processing logic. The scripts are located in the scripts/ directory.
