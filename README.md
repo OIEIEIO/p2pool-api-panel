@@ -28,9 +28,13 @@ The current setup uses a VPS with the following specifications:
 - 500 GB NVMe drive
 - Ubuntu 22.04 LTS
 
-## Screenshot
+## Screenshot 6 hr windows
 
-![Pool API Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+![Pool API 6hr Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+
+## Screenshot 24 hr Windows
+
+![Pool API 24hr Panel](screenshots/Screenshot%202024-05-24%20233855.png)
 
 ## Installation
 
