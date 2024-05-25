@@ -184,7 +184,7 @@ screen -S p2pool
 ```
 Start the ingest script in another screen session:
 ```
-screen -S influx_pool_info
+screen -S influx_stratum_data_loop
 bash scripts/influx_stratum_data_loop.sh
 ```
 You can detach from a screen session by pressing Ctrl + A followed by D. To reattach to a session, use:
