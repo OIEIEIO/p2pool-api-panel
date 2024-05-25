@@ -36,6 +36,10 @@ The current setup uses a VPS with the following specifications:
 
 ![Pool API 24hr Panel](screenshots/Screenshot%202024-05-24%20233855.png)
 
+## Screenshot 7 Days Windows
+
+![Pool API 24hr Panel](screenshots/Screenshot%202024-05-24%20235838.png)
+
 ## Installation
 
 ### 1. Clone the Repository
