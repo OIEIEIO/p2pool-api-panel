@@ -2,7 +2,7 @@
 
 **Disclaimer: This repository is a Work in Progress (WIP) and is not yet complete or ready for use. However, the information provided may be useful for those who wish to modify, finish, and use it. The setup has been tested for about 30 days, but some features are still being sorted out, and learning about Grafana and InfluxDB is ongoing.**
 
-This repository contains a mining proxy panel for monitoring P2Pool mining activities. The panel uses InfluxDB to store pool information fetched from the P2Pool API and Grafana to visualize the data.
+This repository contains a P2Pool API panel for monitoring P2Pool mining activities. The panel uses InfluxDB to store pool information fetched from the P2Pool API and Grafana to visualize the data.
 
 ## Features
 
