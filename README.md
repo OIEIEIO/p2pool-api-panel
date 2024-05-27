@@ -31,6 +31,8 @@ The current setup uses a VPS with the following specifications:
 ## Screenshot 6 hours
 
 ![Pool API 6hr Panel](screenshots/Screenshot%202024-05-16%20202717.png)
+![Pool API 6hr Panel](screenshots/Screenshot%202024-05-27%20120713.png)
+
 
 ## Screenshot 24 hours
 
