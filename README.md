@@ -70,6 +70,7 @@ Using the --data-api flag with P2Pool enables the creation of a data directory, 
 ├── local
 │   ├── console
 │   ├── last_miner_cache.txt
+│   ├── last_p2p_cache.txt
 │   ├── last_stratum_cache.txt
 │   ├── miner
 │   ├── p2p
@@ -82,6 +83,7 @@ Using the --data-api flag with P2Pool enables the creation of a data directory, 
 ├── pool
 │   ├── blocks
 │   ├── last_blocks_cache.txt
+│   ├── last_stats_cache.txt
 │   ├── response.txt
 │   └── stats
 └── stats_mod
