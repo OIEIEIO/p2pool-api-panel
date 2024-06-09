@@ -113,3 +113,4 @@ To stop the script safely, you can simply press `Ctrl+C`, which will send a `SIG
 
 ```bash
 pkill -f run_all_scripts.sh
+```
