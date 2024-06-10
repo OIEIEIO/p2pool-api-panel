@@ -37,6 +37,10 @@ The current setup uses a VPS with the following specifications:
 
 ![Pool API 6hr Panel](screenshots/Screenshot%202024-06-07%20010827.png)
 
+## Connectivity
+
+![Pool API 6hr Panel](screenshots/Screenshot%202024-06-10%20115557.png)
+
 ## Screenshot 12 Hours
 
 ![Pool API 12hr Panel](screenshots/Screenshot%202024-06-06%20205321.png)
