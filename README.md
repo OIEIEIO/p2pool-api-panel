@@ -259,13 +259,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 This project is based on the instructions from the [xmr-metrics](https://github.com/OIEIEIO/xmr-metrics) repository with customizations for the P2Pool API. Special thanks to the members of the P2Pool Mini IRC channel for their guidance on setting up the data API.
 - IRC at #p2pool-mini@irc.libera.chat:6697.
 
-## Donate
-
-If you find this project useful and would like to support its development, please consider donating to the following cryptocurrency addresses:
-
-**Monero (XMR):**
-`45fEZ996KubUBfYH3n5jTSJqWcqscwZsJYFFHRbwM4wNGLcV4g3ABZ2eZs9VwJoGBAPAbCRrDw4qEK8hmb2BzMkE6JcBYXj`
-
-Thank you for your support!
 
 
